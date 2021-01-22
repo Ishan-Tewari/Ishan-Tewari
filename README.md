@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/ishan-tewari-1a1938169/)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@manish15gupta03/)](https://medium.com/@manish15gupta03)
+<!-- [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@manish15gupta03/)](https://medium.com/@manish15gupta03) -->
 
 🔭 &nbsp;I am currently working in Machine Learning industry.\
 💡 &nbsp;I wish to combine my Technical skills with the principles of Entrepreneurship to create something meaningfull.\
