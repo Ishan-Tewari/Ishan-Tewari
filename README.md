@@ -9,9 +9,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/ishan-tewari-1a1938169/)
 <!-- [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@manish15gupta03/)](https://medium.com/@manish15gupta03) -->
 
-🔭 &nbsp;I am currently working in Machine Learning industry.\
-💡 &nbsp;I wish to combine my Technical skills with the principles of Entrepreneurship to create something meaningfull.\
-✍️ &nbsp;In my free time, I usually play my guitar and sing.
+🔭 &nbsp;I am currently looking for internships in Machine Learning and Web Development industry.\
+💡 &nbsp;My current objective is to get an opportunity to work with an organization whereby I can learn, innovate, and evolve continuously along with adding value to the organization and clients I work for.\
+✍️ &nbsp;Apart from technical stuff, music is something which soothes me and I love to play my guitar in my free time.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
