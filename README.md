@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/ishan-tewari-1a1938169/)
-<!-- [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@manish15gupta03/)](https://medium.com/@manish15gupta03) -->
+<!--[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@ishantewari/)](https://medium.com/@ishantewari) -->
 
 🔭 &nbsp;I am currently looking for internships in Machine Learning and Web Development industry.\
 💡 &nbsp;My current objective is to get an opportunity to work with an organization whereby I can learn, innovate, and evolve continuously along with adding value to the organization and clients I work for.\
