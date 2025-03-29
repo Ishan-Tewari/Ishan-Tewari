@@ -13,7 +13,7 @@
 💡 &nbsp;I’m passionate about Dev, AI, and now, Microservices. While I’ve worked on some cool AI and Dev projects, I’m now diving deeper into Microservices and other design patterns, scaling systems, etc with big plans to build in this space.\
 💼 &nbsp;At Oracle, I work with the SCM Logistics Fusion team on frameworks like Oracle ADF & VBCS, PL/SQL, and APIs, plus Jenkins for CI/CD. Beyond bug-fixing, I aim to add real value and continuously improve our product.\
 📖 &nbsp;One of my recent achievements is co-authoring a book chapter on Hand Gesture Recognition—a rewarding challenge that pushed my skills in AI.\
-🎸 &nbsp;Outside of work, I’m into music, guitar, F1, and even dabble in a bit of stand-up comedy.\
+🎸 &nbsp;Outside of work, I’m into music, guitar, F1, and even dabble in a bit of stand-up comedy.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
