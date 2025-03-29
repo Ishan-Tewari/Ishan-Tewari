@@ -9,9 +9,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/ishan-tewari-1a1938169/)
 <!--[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@ishantewari/)](https://medium.com/@ishantewari) -->
 
-🔭 &nbsp;I am currently looking for internships in Machine Learning and Web Development industry.\
-💡 &nbsp;My current objective is to get an opportunity to work with an organization whereby I can learn, innovate, and evolve continuously along with adding value to the organization and clients I work for.\
-✍️ &nbsp;Apart from technical stuff, music is something which soothes me and I love to play my guitar in my free time.
+🔭 &nbsp;I’m a Computer Science grad from Nirma University, currently working as an Applications Engineer at Oracle, where I get to blend creativity with problem-solving.\
+💡 &nbsp;I’m passionate about Dev, AI, and now, Microservices. While I’ve worked on some cool AI and Dev projects, I’m now diving deeper into Microservices and other design patterns, scaling systems, etc with big plans to build in this space.\
+✍️ &nbsp;At Oracle, I work with the SCM Logistics Fusion team on frameworks like Oracle ADF & VBCS, PL/SQL, and APIs, plus Jenkins for CI/CD. Beyond bug-fixing, I aim to add real value and continuously improve our product.\
+✍️ &nbsp;One of my recent achievements is co-authoring a book chapter on Hand Gesture Recognition—a rewarding challenge that pushed my skills in AI.\
+✍️ &nbsp;Outside of work, I’m into music, guitar, F1, and even dabble in a bit of stand-up comedy.\
 
 ### ⚙️ &nbsp;GitHub Analytics
 
